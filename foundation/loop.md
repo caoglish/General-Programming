@@ -72,3 +72,36 @@ while(i<10)
 	console.log(i++);
 }
 ```
+
+```do while(condition)``` syntax defined the loop run at least once with condition.
+
+### Python
+```python
+#python did not have do-while syntax, need hack way to do it.
+i = 0;
+while True:
+	print(i)
+	i += 1
+	if i >= 10:
+		break
+
+```
+
+### PHP
+```php
+<?php
+$i=0;
+do
+{
+	echo $i++;
+}while($i<10);
+```
+
+### JavaScript
+```javascript
+let i=0;
+do
+{
+	console.log(i++);
+}while(i<10)
+```
