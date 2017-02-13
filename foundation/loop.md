@@ -41,32 +41,5 @@ for(let i=0;i<10;i++){
 }
 ```
 
-### Conditional loop:
-```while(condition)``` syntax defined the loop with condition.
 
-#### Python
-```
-i=0
-while(i<10):
-	print(i)
-	i += 1
 
-```
-
-#### PHP
-```php
-<?php
-$i=0;
-while($i<10)
-{
-	echo $i++;
-}
-```
-#### JavaScript
-```
-let i=0;
-while(i<10)
-{
-	console.log(i++);
-}
-```
