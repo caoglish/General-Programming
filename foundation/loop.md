@@ -72,7 +72,7 @@ while(i<10)
 	console.log(i++);
 }
 ```
-
+----
 ```do while(condition)``` syntax defined the loop run at least once with condition.
 
 ### Python
