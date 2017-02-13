@@ -46,7 +46,7 @@ for(let i=0;i<10;i++){
 ```while(condition)``` syntax defined the loop with condition.
 
 ### Python
-```
+```python
 i=0
 while(i<10):
 	print(i)
@@ -65,7 +65,7 @@ while($i<10)
 ```
 
 ### JavaScript
-```
+```javascript
 let i=0;
 while(i<10)
 {
