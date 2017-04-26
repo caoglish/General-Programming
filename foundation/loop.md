@@ -1,6 +1,6 @@
 # Loop
 
-## Iterator(foreach):
+## Iterator(foreach)
 
 ### Python
 
