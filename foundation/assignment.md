@@ -33,7 +33,7 @@ $x[3]="d";
 
 ```python
 x=["a","b","c"]
-$x[3]="d";
+x[3]="d";
 ```
 
 ### JavaScript
